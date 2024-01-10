@@ -1,5 +1,5 @@
 # yubihsm-java-PKCS11
-This Java-based tool is designed for seamless interaction with YubiHSM2 devices using the YubiHSM PKCS#11 Java Module. It provides a simple yet effective way to connect to a YubiHSM2 device, authenticate a session, and list all stored objects, displaying both simple and detailed information about each.
+This Java-based code is designed for seamless interaction with YubiHSM2 devices using the YubiHSM PKCS#11 Java Module. It provides a simple yet effective way to connect to a YubiHSM2 device, authenticate a session, and list all stored objects, displaying both simple and detailed information about each.
 
 ## Contents
 
